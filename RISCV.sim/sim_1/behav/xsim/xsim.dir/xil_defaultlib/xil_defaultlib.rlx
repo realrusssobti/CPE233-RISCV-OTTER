@@ -1,0 +1,16 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/Armaan/RISCV/RISCV.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/Armaan/RISCV/RISCV.srcs/sources_1/imports/riscv/OTTER_MCU.sv,1684192798,systemVerilog,,C:/Users/Armaan/RISCV/RISCV.srcs/sources_1/imports/riscv/branchgen.v,,OTTER_MCU,,uvm,,,,,,
+C:/Users/Armaan/RISCV/RISCV.srcs/sources_1/imports/riscv/OTTER_Wrapper_v1_08.sv,1684173709,systemVerilog,,,,OTTER_Wrapper,,uvm,,,,,,
+C:/Users/Armaan/RISCV/RISCV.srcs/sources_1/imports/riscv/PC.sv,1684179533,verilog,,C:/Users/Armaan/RISCV/RISCV.srcs/sources_1/imports/riscv/exp_3_alu.v,,PC,,uvm,,,,,,
+C:/Users/Armaan/RISCV/RISCV.srcs/sources_1/imports/riscv/branchgen.v,1684183630,systemVerilog,,C:/Users/Armaan/RISCV/RISCV.srcs/sources_1/imports/riscv/control_unit_dcdr_v_1_05.sv,,BRANCH_ADDRESS_GENERATOR,,uvm,,,,,,
+C:/Users/Armaan/RISCV/RISCV.srcs/sources_1/imports/riscv/control_unit_dcdr_v_1_05.sv,1684193480,systemVerilog,,C:/Users/Armaan/RISCV/RISCV.srcs/sources_1/imports/riscv/control_unit_fsm_v_1_07.sv,,CU_DCDR,,uvm,,,,,,
+C:/Users/Armaan/RISCV/RISCV.srcs/sources_1/imports/riscv/control_unit_fsm_v_1_07.sv,1684193750,systemVerilog,,C:/Users/Armaan/RISCV/RISCV.srcs/sources_1/imports/riscv/immedgen.v,,CU_FSM,,uvm,,,,,,
+C:/Users/Armaan/RISCV/RISCV.srcs/sources_1/imports/riscv/exp5_testbench-1.v,1683755638,verilog,,,,otter_tb,,uvm,,,,,,
+C:/Users/Armaan/RISCV/RISCV.srcs/sources_1/imports/riscv/exp_3_alu.v,1684131092,verilog,,,,alu,,uvm,,,,,,
+C:/Users/Armaan/RISCV/RISCV.srcs/sources_1/imports/riscv/immedgen.v,1684178973,systemVerilog,,C:/Users/Armaan/RISCV/RISCV.srcs/sources_1/imports/riscv/otter_memory_v1_06.sv,,IMMEDIATE_GENERATOR,,uvm,,,,,,
+C:/Users/Armaan/RISCV/RISCV.srcs/sources_1/imports/riscv/otter_memory_v1_06.sv,1683742869,systemVerilog,,C:/Users/Armaan/RISCV/RISCV.srcs/sources_1/imports/riscv/reg_file_v_1_01.sv,,Memory,,uvm,,,,,,
+C:/Users/Armaan/RISCV/RISCV.srcs/sources_1/imports/riscv/reg_file_v_1_01.sv,1683742875,systemVerilog,,C:/Users/Armaan/RISCV/RISCV.srcs/sources_1/imports/riscv/OTTER_Wrapper_v1_08.sv,,RegFile,,uvm,,,,,,

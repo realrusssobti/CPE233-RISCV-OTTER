@@ -1,0 +1,22 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../RISCV.srcs/sources_1/imports/riscv/PC.sv" \
+"../../../../RISCV.srcs/sources_1/imports/riscv/exp_3_alu.v" \
+
+sv xil_defaultlib  \
+"../../../../RISCV.srcs/sources_1/imports/riscv/OTTER_MCU.sv" \
+"../../../../RISCV.srcs/sources_1/imports/riscv/branchgen.v" \
+"../../../../RISCV.srcs/sources_1/imports/riscv/control_unit_dcdr_v_1_05.sv" \
+"../../../../RISCV.srcs/sources_1/imports/riscv/control_unit_fsm_v_1_07.sv" \
+"../../../../RISCV.srcs/sources_1/imports/riscv/immedgen.v" \
+"../../../../RISCV.srcs/sources_1/imports/riscv/otter_memory_v1_06.sv" \
+"../../../../RISCV.srcs/sources_1/imports/riscv/reg_file_v_1_01.sv" \
+
+verilog xil_defaultlib  \
+"../../../../RISCV.srcs/sources_1/imports/riscv/exp5_testbench-1.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

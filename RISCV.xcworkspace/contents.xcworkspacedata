@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:programmingassignment.asm">
+   </FileRef>
+   <FileRef
+      location = "group:progasnmt2.asm.s">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/rsobti/Library/CloudStorage/OneDrive-CalPoly/CPE 233 Labs/RISCV/otter_memory.mem">
+   </FileRef>
+   <FileRef
+      location = "group:RISCV.cache">
+   </FileRef>
+   <FileRef
+      location = "group:RISCV.hw">
+   </FileRef>
+   <FileRef
+      location = "group:RISCV.ip_user_files">
+   </FileRef>
+   <FileRef
+      location = "group:RISCV.runs">
+   </FileRef>
+   <FileRef
+      location = "group:RISCV.sim">
+   </FileRef>
+   <FileRef
+      location = "group:RISCV.srcs">
+   </FileRef>
+   <FileRef
+      location = "group:RISCV.xpr">
+   </FileRef>
+</Workspace>
